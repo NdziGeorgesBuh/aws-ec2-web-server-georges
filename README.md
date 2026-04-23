@@ -23,3 +23,17 @@ Successfully deployed a working web server accessible via public IP.
 
 ## Public IP
 http://16.170.225.176
+
+## Screenshots
+
+### EC2 Instance
+![EC2] https://github.com/NdziGeorgesBuh/aws-ec2-web-server-georges/blob/main/ec2-instance.png
+
+### Security Group
+![Security] https://github.com/NdziGeorgesBuh/aws-ec2-web-server-georges/blob/main/security-group.png
+
+### SSH Connection
+![SSH] https://github.com/NdziGeorgesBuh/aws-ec2-web-server-georges/blob/main/ssh-terminal.png
+
+### Web Server
+![Web] https://github.com/NdziGeorgesBuh/aws-ec2-web-server-georges/blob/main/web-server.png
